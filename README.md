@@ -4,9 +4,16 @@
 
 Social Engineering and Phishing is among the top methods for attackers to gain entry into a system or network. It is important to be capable of identifying a phishing email apart from non-malicious email. There are many different types of phishing emails that exist, and not all are equally harmful. Below we will discus more in depth the types of phishing emails, and how to investigate them and confirm whether they are malicious in nature.
 
-<h3>Overview</h3>
+<h3>Information</h3>
 
-Overview
+Phishing attacks can come in a variety of shapes and sizes, and varying degrees of danger when interacting with each type. Here are some of the different types of phishing attacks:
+
+- <b></b>
+- <b></b>
+- <b></b>
+- <b></b>
+- <b></b>
+- <b></b>
 
 <h3>Objectives</h3>
 
