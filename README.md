@@ -8,12 +8,13 @@ Social Engineering and Phishing is among the top methods for attackers to gain e
 
 Phishing attacks can come in a variety of shapes and sizes, and varying degrees of danger when interacting with each type. Here are some of the different types of phishing attacks:
 
-- <b></b>
-- <b></b>
-- <b></b>
-- <b></b>
-- <b></b>
-- <b></b>
+- <b>Recon</b>
+- <b>Credential Harvester</b>
+- <b>Social Engineering</b>
+- <b>Vishing/Smishing</b>
+- <b>Whaling</b>
+- <b>Malicious File attachment</b>
+- <b>Spam</b>
 
 <h3>Objectives</h3>
 
