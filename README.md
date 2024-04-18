@@ -32,22 +32,25 @@ Phishing attacks can come in a variety of shapes and sizes, and varying degrees 
 
 <h3>Objectives</h3>
 
-- <b> </b> 
+- <b>To determine if an email is malicious</b>
+- <b>To generate a report, containing IoCs, findings and recommendations</b> 
 
 <br />
 
-
 <h2>Skills Learned</h2>
 
-- <b></b> 
-- <b></b>
-- <b></b>
+- <b>Retrieve email, web, and file artifacts</b> 
+- <b>Anaylze artifacts to determine if malicious or poses threat</b>
+- <b>Communicate clearly the findings of the analysis</b>
 
 <h2>Tools Used</h2>
 
-- <b></b>
-- <b></b>
-- <b></b>
+- <b>Visualization tool - [URL2PNG](https://www.url2png.com/)</b>
+- <b>URL Repuation tool - [Virustotal](https://www.virustotal.com/)</b>
+- <b>File Reputation tool - [Virustotal](https://www.virustotal.com/)</b>
+- <b>Malware Sandboxing tool - [Hybrid Analysis](https://www.hybrid-analysis.com/)</b>
+- <b>Automatic Phishing Artifact Collection tool - [PhishTool]()</b>
+
 
 <h2>Template Steps Used</h2>
 
