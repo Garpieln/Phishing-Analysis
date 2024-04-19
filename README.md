@@ -49,7 +49,7 @@ Phishing attacks can come in a variety of shapes and sizes, and varying degrees 
 - <b>URL Repuation tool - [Virustotal](https://www.virustotal.com/)</b>
 - <b>File Reputation tool - [Virustotal](https://www.virustotal.com/)</b>
 - <b>Malware Sandboxing tool - [Hybrid Analysis](https://www.hybrid-analysis.com/)</b>
-- <b>Automatic Phishing Artifact Collection tool - [PhishTool]()</b>
+- <b>Automatic Phishing Artifact Collection tool - [PhishTool](https://app.phishtool.com/submit)</b>
 
 
 <h2>Template Steps Used</h2>
